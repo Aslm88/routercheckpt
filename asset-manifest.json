@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/routercheckpt/static/css/main.eb0c75ac.chunk.css",
+    "main.js": "/routercheckpt/static/js/main.8cb67424.chunk.js",
+    "main.js.map": "/routercheckpt/static/js/main.8cb67424.chunk.js.map",
+    "runtime-main.js": "/routercheckpt/static/js/runtime-main.5a681b89.js",
+    "runtime-main.js.map": "/routercheckpt/static/js/runtime-main.5a681b89.js.map",
+    "static/css/2.ac82d1d8.chunk.css": "/routercheckpt/static/css/2.ac82d1d8.chunk.css",
+    "static/js/2.34c26110.chunk.js": "/routercheckpt/static/js/2.34c26110.chunk.js",
+    "static/js/2.34c26110.chunk.js.map": "/routercheckpt/static/js/2.34c26110.chunk.js.map",
+    "static/js/3.d1d6a06c.chunk.js": "/routercheckpt/static/js/3.d1d6a06c.chunk.js",
+    "static/js/3.d1d6a06c.chunk.js.map": "/routercheckpt/static/js/3.d1d6a06c.chunk.js.map",
+    "index.html": "/routercheckpt/index.html",
+    "static/css/2.ac82d1d8.chunk.css.map": "/routercheckpt/static/css/2.ac82d1d8.chunk.css.map",
+    "static/css/main.eb0c75ac.chunk.css.map": "/routercheckpt/static/css/main.eb0c75ac.chunk.css.map",
+    "static/js/2.34c26110.chunk.js.LICENSE.txt": "/routercheckpt/static/js/2.34c26110.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a681b89.js",
+    "static/css/2.ac82d1d8.chunk.css",
+    "static/js/2.34c26110.chunk.js",
+    "static/css/main.eb0c75ac.chunk.css",
+    "static/js/main.8cb67424.chunk.js"
+  ]
+}
